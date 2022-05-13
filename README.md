@@ -6,8 +6,4 @@ This paper introduces a new methodology to evaluate the performance of rural roa
 
 Paper authors: Jagat Kumar Shrestha, Pramesh Pudasaini, Lorenzo Mussone\
 Journal: Transportation Planning and Technology\
-Publisher: Taylor & Francis\
-Paper status: Published\
 Link: [https://doi.org/10.1080/03081060.2021.1956809](https://doi.org/10.1080/03081060.2021.1956809)
-
-README last updated: July 26, 2021
